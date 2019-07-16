@@ -33,4 +33,4 @@ To open a notebook from this repository, you can
 * Click the collated shortcuts below. Disclaimer: we might forget to update this...
 
 Session 01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ieeeunswsb/cpworkshop/blob/master/session01.ipynb)
-
+Session 01 solution [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ieeeunswsb/cpworkshop/blob/master/session01-soln.ipynb)
