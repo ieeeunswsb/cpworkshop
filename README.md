@@ -1,4 +1,5 @@
 # Competitive Programming Workshop 2019
+Refer to [link](http://www.lukesy.net/docs/ieeeunswsb-cpw/) for more details about this tool.
 
 ## Is competitive programming for you?
 ### Who is it for?
@@ -22,7 +23,17 @@ Doing competitive programming will definitely reward you with fun, learning, and
   * 1st years are very welcome to join!
   * You can definitely join even if you are not from STEM.
 
+## Library
+* We primarily use [cpbook](https://github.com/stevenhalim/cpbook-code)
+  * ch2 ourown contains union find
+  * ch4 containts minimum spanning tree (mst) and single source shortest path (sssp)
+
 ## Learning Environment
+### Regular CP Workshop
+* Up to you. We currently use Hackerrank as our training platform which supports c, c++, java, python, and more. [ieee unsw sb 2019 training contest](https://www.hackerrank.com/contests/ieee-unsw-sb-xtreme-training-2019/challenges)
+* We'd like to acknowledge UVa judge as we use their DB for our private trainings.
+
+### Session 1
 We will be using Google Colab for their free python jupyter notebooks. This setup means:
 * You don't really need to install anything on your PC
 * You will need to have a google account
